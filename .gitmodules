@@ -1,0 +1,9 @@
+[submodule "plugged/vim-airline"]
+	path = plugged/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "plugged/vim-colors-solarized"]
+	path = plugged/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "plugged/vim-fugitive"]
+	path = plugged/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
